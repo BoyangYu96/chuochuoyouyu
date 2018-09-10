@@ -197,19 +197,19 @@
 
 ## 5.1 用例图
 ![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/1.png)
-
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/2.png)
 
 
 ## 5.2 注册
-
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/3.png)
 ## 5.3 登录
-
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/4.png)
 ## 5.4 查看用户信息
-
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/5.png)
 
 
 ## 5.5 修改用户信息
-
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/image/6.png)
 ## 5.6 购买会员
 ![Image text](http://github.com/dingdi0353151510/chuchuoyouyu/raw/master/购买会员.png)
 ## 5.7 求助
