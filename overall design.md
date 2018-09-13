@@ -103,7 +103,18 @@
 最后，在软件开发完毕后，还要进行确认测试，即验收测试，用来验证软件的有效性。软件的有效性就是指，软件的功能和性能如同用户所期待的那样。
 # 2 测试方案和预期的测试结果
 测试方案中包括测试时使用的输入数据（测试用例），还包括每组输入数据预定要检验的功能，以及每组输入数据预期应得到的正确输出。
-#
+# 2.1
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c1.png)
+# 2.2
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c2.png)
+# 2.3
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c3.png)
+# 2.4
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c4.png)
+# 2.5
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c5.png)
+# 2.6
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c6.png)
 
  
 
@@ -111,6 +122,8 @@
 
 
 # 3 测试进度计划
+#
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/t1.png)
 # 第四章  实现计划
 
 ## 4.1 目的
