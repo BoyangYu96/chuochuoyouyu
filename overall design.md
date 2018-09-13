@@ -56,3 +56,51 @@ overall design
 
 # 3 测试进度计划
 
+# 5 数据库设计
+# 5.1 引言
+## 5.1.1 编写目的
+本文档主要对在线英语中文交互学习系统在设计阶段对数据库设计的说明和描述。本文档的主要读者应为后续设计阶段的设计人员、实现阶段的编码人员和实际使用时的系统管理员。
+## 5.1.2 背景
+本次需要开发的系统以“在线英语中文交互学习系统”作为本次系统的命名，最终的产品是生产出符合本需求文档的英语在线学习系统。
+## 5.1.3 参考资料
+无
+# 5.2 表列表
+序号|中文名称|物理表名
+---|:--:|---:
+1|用户表|userTable
+2|直播表|liveTable
+3|内容表|contentTable
+# 5.3 表内容
+## 5.3.1 用户表
+### 字段列表
+序号|中文名称|列名|数据类型|长度
+---|:--:|---:|---:|---:
+1|用户名|userId|VarChar|36
+2|用户昵称|userName|VarChar|36
+3|密码|passWord|VarChar|50
+4|身份证|idCard|Int|50
+5|年龄|age|int|5
+6|兴趣语言|languageType|VarChar|10
+7|地址|address|VarChar|40
+
+## 5.3.2 直播表
+### 字段列表
+序号|中文名称|列名|数据类型|长度
+---|:--:|---:|---:|---:
+1|用户昵称|userName|VarChar|36
+2|用户名|userId|VarChar|36
+3|直播房间号|houseId|VarChar|36
+4|观看直播人数|watchPeopleNumber|VarChar|36
+5|直播开始时间|beginTime|VarChar|36
+
+## 5.3.3 内容表
+### 字段列表
+序号|中文名称|列名|数据类型|长度
+---|:--:|---:|---:|---:
+1|用户昵称|userNamev|VarChar|36
+2|用户名|userId|VarChar|36
+3|聊天内容|chatContext|VarChar|500
+4|聊天时间|chatTime|VarChar|36
+5|字体|font|VarChar|36
+6|字体颜色|fontColor|VarChar|36
+7|字体大小|fontSize|VarChar|36
