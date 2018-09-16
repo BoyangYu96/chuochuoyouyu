@@ -143,6 +143,8 @@
 ## 4.3系统层次图
 ![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/%E5%B1%82%E6%AC%A1%E5%9B%BE.jpg)
 
+## 4.4流程图
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 # 5 数据库设计
 # 5.1 引言
 ## 5.1.1 编写目的
