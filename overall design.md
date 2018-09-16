@@ -139,6 +139,10 @@
 第三周：根据总体设计制定详细设计，并进行初步的编码实现。
 
 第四周：整合系统，进行演示。
+
+## 4.3系统层次图
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/%E5%B1%82%E6%AC%A1%E5%9B%BE.jpg)
+
 # 5 数据库设计
 # 5.1 引言
 ## 5.1.1 编写目的
