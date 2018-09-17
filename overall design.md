@@ -27,6 +27,16 @@
 
 本系统主要由四大模块组成：注册登录模块、用户模块、内容管理模块、充值模块以及后台管理模块。注册登录模块提供注册新用户、已有用户登录两大功能；用户模块的功能有：查看用户信息，修改用户信息，开始或结束用户之间的视频/音频/文字聊天，以及查看用户历史记录；内容管理模块主要对系统页面显示的内容进行管理，排序等操作；充值模块负责接收用户充值信息，并在用户充值之后修改用户身份（会员/非会员），或者修改用户剩余虚拟币数量；后台管理模块是底层模块，用于接收上述模块的各种请求，以及根据请求操作数据库。
 
+# 5 系统流程图
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/3.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/4.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/5.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/6.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/7.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/8.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/9.png)
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/10.png)
+
 # 第二章  用户手册
 
 本系统为在线中英交互式学习系统，为需要学习和提升语言能力的用户提供了一种在线学习方式。用户手册部分主要是向该系统的使用者说明该系统的使用方式。
