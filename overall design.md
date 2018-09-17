@@ -54,7 +54,8 @@
 ![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/10.png)
 
 
-
+# 6 系统数据流图
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/image/%E6%95%B0%E6%8D%AE%E6%B5%81%E5%9B%BE.jpg)
 
 # 第二章  用户手册
 
