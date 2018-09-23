@@ -148,8 +148,10 @@
 ![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c5.png)
 # 2.6
 ![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c6.png)
-
- 
+# 2.7
+![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c7.png)
+# 2.8
+ ![image](https://github.com/YuBoyang0321151606/chuochuoyouyu/blob/master/img/c8.png)
 
 
 
