@@ -60,3 +60,30 @@ Stock Analyse System
 
 ![](https://github.com/chuochuoyouyugroup/Stock/blob/master/28.png)
 
+## 不同预测方法比较：
+### 1.决策树方法
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/%E5%86%B3%E7%AD%96%E6%A0%91.png)
+### 2.SVM方法
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/SVM.png)
+### 3.KNN方法
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/KNN.png)
+### 4.LRC方法
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/LRC.png)
+### 5.RFC方法
+![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/RFC.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
