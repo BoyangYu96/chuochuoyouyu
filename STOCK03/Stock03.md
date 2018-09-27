@@ -71,8 +71,7 @@ Stock Analyse System
 ![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/LRC.png)
 ### 5.RFC方法
 ![](https://raw.githubusercontent.com/YuBoyang0321151606/chuochuoyouyu/master/STOCK03/pic/RFC.png)
-
-
+由此可以看出决策树算法表现良好，因此我们采用决策树算法进行股票涨跌情况的预测。
 
 
 
